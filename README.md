@@ -19,6 +19,11 @@ Antes del código, me formé en **Nutrición** y como **Instructor de Música**.
 * ⚡ **Dato curioso:** Tengo 6 perros (Lexie, Sammy, Snow, Chimuelo, Eli y Sirius) y mi prioridad es la estabilidad y la calidad de vida sobre un salario exorbitante.
 
 ---
+### Proyectos 🧳
+[![Chatbot IA](https://img.shields.io/badge/Chatbot-Documental-007ACC?style=for-the-badge&logo=openai&logoColor=white)](https://j-bot.jalexcode.com/j-bot?lang=es&type=chat)
+
+[![Chatbot IA](https://img.shields.io/badge/Chatbot-Sobre mi  -007ACC?style=for-the-badge&logo=openai&logoColor=white)](https://j-bot.jalexcode.com/j-bot?lang=es&type=profile)
+
 
 ### 🛠️ Tech Stack
 
@@ -74,8 +79,3 @@ Antes del código, me formé en **Nutrición** y como **Instructor de Música**.
 | **Comunicación** | Empatía e Inteligencia Emocional. |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAlejandroQuevedo&show_icons=true&theme=radical" alt="Estadísticas de Jesús" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAlejandroQuevedo&layout=compact&theme=radical" alt="Lenguajes Top" />
-</p>
