@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-alejandro-quevedo-cabrera-889073293/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alejandro@jalexcode.com)
-[![Web Badge](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white)](mailto:alejandro@jalexcode.com)
+[![Web Badge](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white)](https://jalexcode.com/)
 
 ---
 
@@ -76,6 +76,6 @@ Antes del código, me formé en **Nutrición** y como **Instructor de Música**.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="Estadísticas de Jesús" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JAlejandroQuevedo&show_icons=true&theme=radical" alt="Estadísticas de Jesús" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAlejandroQuevedo&layout=compact&theme=radical" alt="Lenguajes Top" />
 </p>
