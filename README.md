@@ -22,7 +22,7 @@ Antes del código, me formé en **Nutrición** y como **Instructor de Música**.
 ### Proyectos 🧳
 [![Chatbot IA](https://img.shields.io/badge/Chatbot-Documental-007ACC?style=for-the-badge&logo=openai&logoColor=white)](https://j-bot.jalexcode.com/j-bot?lang=es&type=chat)
 
-[![Chatbot IA](https://img.shields.io/badge/Chatbot-Sobre mi  -007ACC?style=for-the-badge&logo=openai&logoColor=white)](https://j-bot.jalexcode.com/j-bot?lang=es&type=profile)
+[![Chatbot IA](https://img.shields.io/badge/Chatbot-Sobre-mi-007ACC?style=for-the-badge&logo=openai&logoColor=white)](https://j-bot.jalexcode.com/j-bot?lang=es&type=profile)
 
 
 ### 🛠️ Tech Stack
